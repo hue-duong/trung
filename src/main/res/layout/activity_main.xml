@@ -12,7 +12,7 @@
         android:layout_marginStart="135dp"
         android:layout_marginTop="54dp"
         android:layout_marginEnd="175dp"
-        android:text="CLOSE FRIENDS"
+        android:text="CLOSE FRIENDS is mylife"
         android:textColor="#ff0000"
         android:textSize="23sp"
         android:layout_marginLeft="135dp"
@@ -25,7 +25,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="24dp"
-        android:text="          Những cô nàng độc thân vui tính hạnh phúc"
+        android:text="          Những cô nàng độc thân "
         android:textColor="#800080" />
 
     <ProgressBar
