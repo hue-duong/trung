@@ -28,7 +28,7 @@
             android:layout_centerHorizontal="true"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="24dp"
-            android:text="HUE CRAZY"
+            android:text="hue so cute"
             android:textColor="#66b266"
             android:textSize="30dp" />
 
